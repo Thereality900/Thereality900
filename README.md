@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Thereality900
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<end> 
+     <html>
+<end> 
+- Hi, I'm @Thereality900
+- I'm interested in scripting 
+- I'm currently learning on coding, developing
+- How to reach me just via Send me message in my Gmail account @edreanzodiac@gmail.com or via Discord edrean900 #5163
